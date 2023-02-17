@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>aHiệu Thuốc Cố Tiếu</h1>
+        <h1>Hiệu Thuốc Cố Tiếu</h1>
     </header>
     <main>
         <h1>Thêm Sản Phẩm</h1>
@@ -40,7 +40,7 @@
             <label>&nbsp;</label>
             <input type="submit" value="Add Item">
         </form>
-        <p><a href=".?action=show_cart">View Cart</a></p>
+        <p><a href=".?action=show_cart">Xem Đơn Hàng</a></p>
     </main>
 </body>
 </html>
