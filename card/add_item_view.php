@@ -9,10 +9,10 @@
 </head>
 <body>
     <header>
-        <h1>My Guitar Shop</h1>
+        <h1>aHiệu Thuốc Cố Tiếu</h1>
     </header>
     <main>
-        <h1>Add Item</h1>
+        <h1>Thêm Sản Phẩm</h1>
         <form action="." method="post">
             <input type="hidden" name="action" value="add">
 
