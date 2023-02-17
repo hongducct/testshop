@@ -12,7 +12,7 @@ if (empty($_SESSION['cart12'])) {
 
 // create a table of products
 $products = array();
-$products['MMS-1754'] = array('name' => 'Thuốc ốm', 'cost' => '100.00');
+$products['MMS-1754'] = array('name' => 'Thuốc cảm', 'cost' => '100.00');
 $products['MMS-6289'] = array('name' => 'Thuốc bổ', 'cost' => '199.50');
 $products['MMS-3408'] = array('name' => 'Cà Gai Leo', 'cost' => '299.50');
 
