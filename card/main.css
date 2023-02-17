@@ -1,0 +1,72 @@
+html{
+    background-color: blanchedalmond;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 760px;
+    background-color:azure;
+    margin: 0 auto;
+    padding: 0 2em;
+    border: 1px solid;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:blue;
+}
+
+a:hover {
+    color: red;
+}
+
+header {
+    border-bottom: 2px solid;
+    padding: .5em 0;
+}
+header h1{
+    color: black;
+}
+h1 {
+    color:rgb(220, 129, 24);
+    font-size: 150%;
+    margin: 0;
+    padding: .5em 0 .25em;
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+
+.cart_qty {
+    text-align: right;
+    width: 3em;
+}
+#cart_header th {
+    border-bottom: 2px solid black;
+}
+#cart_footer td {
+    text-align: right;
+    border-top: 2px solid black;
+}
+form{
+    margin: 0;
+}
+label {
+    width: 5em;
+    float: left;
+    margin-right: 1em;
+    text-align: right;
+    margin-bottom: 1em;
+}
+table {
+    width: 70%;
+    border-collapse: collapse;
+}
+td, th {
+    padding: .25em 0;
+}
+br {
+    clear: both;
+}
